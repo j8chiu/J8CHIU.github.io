@@ -28,4 +28,5 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
 
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=500&t=m&d=3LGrgmyYI_ZwG_L9hAge87EruQozTUiUfLqacVMTNd0&co=ffffff&cmo=c42e2e&cmn=82d482&ct=000000'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=500&t=m&d=3LGrgmyYI_ZwG_L9hAge87EruQozTUiUfLqacVMTNd0&co=ffffff&cmo=c42e2e&cmn=82d482&ct=000000'></script> -->
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=X7CWIQc88bqFw7S812mBfiDBIeSAgT0l57AZ20awv6A&cl=ffffff&w=a"></script>
