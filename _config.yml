@@ -30,8 +30,8 @@ linkedin: https://www.linkedin.com/in/jiacheng-qiu-17361b1a0/
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/ID_Photo.jpg
 # logo: ./assets/img/logo_hkust.png
-favicon: ./assets/img/hdsi.png
-favicon_dark: ./assets/img/hdsi.png
+favicon: ./assets/img/image.png
+favicon_dark: ./assets/img/image.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
