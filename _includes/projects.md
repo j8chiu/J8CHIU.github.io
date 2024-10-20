@@ -1,4 +1,4 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<!-- <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -47,7 +47,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
       </div>  
   </div>
 </div>
-</li>
+</li> -->
 
 
 
@@ -77,7 +77,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
 
 
 
-
+<!-- 
 <li>
 <div class="pub-row">
 
@@ -99,7 +99,7 @@ Selected publications. Please refer to my <a href="https://scholar.google.com/ci
       </div>  
   </div>
 </div>
-</li>
+</li> -->
 
 
 <!-- 
