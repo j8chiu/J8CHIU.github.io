@@ -14,6 +14,7 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
 
 {% include_relative _includes/projects.md %}
 
+
 ## Academic Experience
 - 2024.04 - present, Research Assistant, Supervisor: <a href="https://www.tauhidurrahman.com">Tauhidur Rahman</a> 
  <br>Research area: Event-based vision and Multi-modal learning
@@ -26,7 +27,4 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
 - 2023.06, Outstanding Graduate Award
 - 2022.12, Dean’s Scholarship
 
-
-
-<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000000&w=500&t=m&d=3LGrgmyYI_ZwG_L9hAge87EruQozTUiUfLqacVMTNd0&co=ffffff&cmo=c42e2e&cmn=82d482&ct=000000'></script> -->
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=X7CWIQc88bqFw7S812mBfiDBIeSAgT0l57AZ20awv6A&cl=ffffff&w=a"></script>
