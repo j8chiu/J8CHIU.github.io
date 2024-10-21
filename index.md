@@ -13,7 +13,7 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
 
 
 
-{% include_relative _includes/projects.md %}
+% include_relative _includes/projects.md %
 
 ## Academic Experience
 - 2024.04 - present, Research Assistant, Supervisor: <a href="https://www.tauhidurrahman.com">Tauhidur Rahman</a> 
