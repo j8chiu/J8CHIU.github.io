@@ -34,7 +34,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://iclr.cc">Larver: Learning Alignment and Representation for Versatile Event Regeneration. </a></div>
+    <div class="title"><a href="https://cvpr.thecvf.com">Larver: Learning Alignment and Representation for Versatile Event Regeneration. </a></div>
     <div class="author"><strong>Zhongyang Zhang, Jiacheng Qiu</strong>, Tauhidur Rahman</div>
     <div class="periodical"><em>2024.</em></div>
     <div class="links">
