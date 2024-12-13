@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! I am Jiacheng Qiu, a Master student (2023.09,--2025.06) of <a href="https://datascience.ucsd.edu/"> </a> Halıcıoğlu Data Science Institute (HDSI) in the <a href="https://ucsd.edu/">University of California, San Diego (UCSD)</a>. My supervisor is <a href="https://www.tauhidurrahman.com/">Prof. Tauhidur Rahman. 
+Hi! I am Jiacheng Qiu, a Master student (2023.09,--2025.06) of <a href="https://datascience.ucsd.edu/"> </a> Halıcıoğlu Data Science Institute (HDSI) at the <a href="https://ucsd.edu/">University of California, San Diego (UCSD)</a>. My supervisor is <a href="https://www.tauhidurrahman.com/">Prof. Tauhidur Rahman. 
 
 Currently, I am interested in Computer Vision and Multi-modal learning.
 My research is centered on Event-based Vision, especially in Synthetic Event Generation and Motion-related Tasks. 
@@ -16,7 +16,7 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
 {% include_relative _includes/projects.md %}
 
 ## Academic Experience
-- 2024.04 - present, Research Assistant, Supervisor: <a href="https://www.tauhidurrahman.com">Tauhidur Rahman</a> 
+- 2024.04 - present, Research Assistant, MOSAIC Lab <a href="https://mosaic-laboratory.github.io">, Supervisor: <a href="https://www.tauhidurrahman.com">Tauhidur Rahman</a> 
  <br>Research area: Event-based vision and Multi-modal learning
 
 ## Education Experience

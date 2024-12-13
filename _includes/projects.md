@@ -15,8 +15,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://cvpr.thecvf.com">Larver: Learning Alignment and Representation for Versatile Event Regeneration. </a></div>
-    <div class="author"><strong>Zhongyang Zhang, Jiacheng Qiu</strong>, Tauhidur Rahman</div>
+    <div class="title"><a href="https://www.thecvf.com">Larver: Learning Alignment and Representation for Versatile Event Regeneration. </a></div>
+    <!-- <div class="author"><strong>Zhongyang Zhang, Jiacheng Qiu</strong>, Tauhidur Rahman</div> -->
     <div class="periodical"><em>2024.</em></div>
     <div class="links">
       <a href="https://github.com/j8chiu" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
@@ -43,9 +43,9 @@
     <div class="author"><strong>Zhongyang Zhang*, Jiacheng Qiu* (Co-First Author)</strong>, Shuyang Cui, Yijun Luo, Tauhidur Rahman</div>
     <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, 2024.</em></div>
     <div class="links">
-      <a href="https://github.com/j8chiu" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
-      <a href="https://github.com/j8chiu" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/j8chiu" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> 
+      <a href="https://arxiv.org/pdf/2412.08849" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Homepage</a>  
+      <a href="https://arxiv.org/pdf/2412.08849" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2412.08849" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> 
     </div>
   </div>
 </div>
