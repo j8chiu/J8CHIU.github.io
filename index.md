@@ -29,4 +29,13 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
 
 
 
+
+## Moments
+<div class="Life Moments">
+    <img src="/Users/chiuchiu/j8qiu.github.io/assets/img/image.png" alt="Description of image 1" />
+    <!-- Add more images as needed -->
+</div>
+
+
+
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=X7CWIQc88bqFw7S812mBfiDBIeSAgT0l57AZ20awv6A&cl=ffffff&w=a"></script>
