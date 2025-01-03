@@ -32,7 +32,7 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
 
 ## Moments
 <div class="Life Moments">
-    <img src="/Users/chiuchiu/j8qiu.github.io/assets/img/image.png" alt="Description of image 1" />
+    <img src="/Users/chiuchiu/j8qiu.github.io/assets/img/moments/birthday1.JPG" alt="Description of image 1" />
     <!-- Add more images as needed -->
 </div>
 
