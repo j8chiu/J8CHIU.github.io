@@ -53,7 +53,8 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
 
         .gallery img {
             width: 100%; /* Images take full width of their container */
-            height: auto; /* Maintain aspect ratio */
+            height: 200px; /* Fixed height for all images */
+            object-fit: cover; /* Crop to cover the container, preserving aspect ratio */
             border-radius: 8px; /* Rounded corners (optional) */
         }
 
@@ -64,6 +65,39 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
             font-size: 0.8em; /* Smaller font size for descriptions */
         }
     </style>
+
+
+    
+    <!-- <style>
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Adapts number of columns based on screen size */
+            grid-gap: 10px; /* Spacing between items */
+            padding: 10px; /* Padding around the gallery */
+        }
+
+        .gallery .item {
+            display: flex;
+            flex-direction: column; /* Stack image and text vertically */
+            align-items: center; /* Center-align items */
+        }
+
+        .gallery img {
+            width: 100%; /* Images take full width of their container */
+            height: auto; /* Maintain aspect ratio */
+            border-radius: 8px; /* Rounded corners (optional) */
+        }
+
+        .description {
+            text-align: center; /* Center-align text */
+            padding-top: 5px; /* Space between image and text */
+            color: #666; /* Light grey text color, adjust as needed */
+            font-size: 0.8em; /* Smaller font size for descriptions */
+        }
+    </style> -->
+
+
+
 </head>
 <body>
     <h2>Life Moments</h2>
