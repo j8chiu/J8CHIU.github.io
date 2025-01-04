@@ -53,7 +53,7 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
 
         .gallery img {
             width: 100%; /* Images take full width of their container */
-            height: 75px; /* Fixed height for all images */
+            height: 85px; /* Fixed height for all images */
             object-fit: cover; /* Crop to cover the container, preserving aspect ratio */
             border-radius: 8px; /* Rounded corners (optional) */
         }
