@@ -151,6 +151,22 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
             <img src="assets/img/moments/LaJolla_shore3.jpg" alt="La Jolla Shore">
             <div class="description">La Jolla Shore</div>
         </div>
+        <div class="item">
+            <img src="assets/img/moments/Tijuana2.jpg" alt="Tijuana">
+            <div class="description">Tijuana</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/Vegas_sphere.jpg" alt="sphere">
+            <div class="description">Las Vegas Sphere</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/yosemite1.jpg" alt="yosemite">
+            <div class="description">Yosemite</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/yosemite2.jpg" alt="yosemite">
+            <div class="description">Yosemite</div>
+        </div>
 
 
         <!-- Add more items as needed -->
