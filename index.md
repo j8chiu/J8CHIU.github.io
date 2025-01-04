@@ -108,16 +108,16 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
             <div class="description">Lone Rock</div>
         </div>
         <div class="item">
-            <img src="assets/img/moments/Utah.jpg" alt="Utah">
-            <div class="description">Utah</div>
-        </div>
-        <div class="item">
             <img src="assets/img/moments/grand_cayon.jpg" alt="Grand Cayon">
             <div class="description">Grand Cayon</div>
         </div>
         <div class="item">
             <img src="assets/img/moments/horseshoe2.jpg" alt="Horseshoe">
             <div class="description">Horseshoe Bend</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/Vegas_sphere.jpg" alt="sphere">
+            <div class="description">Las Vegas Sphere</div>
         </div>
         <div class="item">
             <img src="assets/img/moments/oceanside2.jpg" alt="oceanside">
@@ -152,12 +152,12 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
             <div class="description">La Jolla Shore</div>
         </div>
         <div class="item">
-            <img src="assets/img/moments/Tijuana2.jpg" alt="Tijuana">
+            <img src="assets/img/moments/Tijuana1.jpg" alt="Tijuana">
             <div class="description">Tijuana</div>
         </div>
         <div class="item">
-            <img src="assets/img/moments/Vegas_sphere.jpg" alt="sphere">
-            <div class="description">Las Vegas Sphere</div>
+            <img src="assets/img/moments/Tijuana2.jpg" alt="Tijuana">
+            <div class="description">Tijuana</div>
         </div>
         <div class="item">
             <img src="assets/img/moments/yosemite1.jpg" alt="yosemite">
