@@ -30,11 +30,7 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
 
 
 
-<!-- ## Life Moments
-<div class="Life Moments">
-    <img src="assets/img/moments/birthday1.JPG" alt="Description of image 1" />
-    <!-- Add more images as needed -->
-</div> -->
+
 
 
 <head>
@@ -70,21 +66,18 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
     </style>
 </head>
 <body>
-    <h2>Moments</h2>
+    <h2>Life Moments</h2>
     <div class="gallery">
         <!-- Each item in the gallery includes an image and a description -->
         <div class="item">
-            <img src="assets/img/moments/birthday1.JPG" alt="Birthday celebration">
+            <img src="assets/img/moments/birthday1.JPG" alt="25th Birthday">
             <div class="description">Birthday celebration</div>
         </div>
         <div class="item">
-            <img src="assets/img/moments/birthday2.JPG" alt="Another Birthday Moment">
+            <img src="assets/img/moments/birthday2.JPG" alt="25th Birthday">
             <div class="description">Another Birthday Moment</div>
         </div>
-        <div class="item">
-            <img src="assets/img/moments/birthday3.jpg" alt="Fun at the party">
-            <div class="description">Fun at the party</div>
-        </div>
+
         <!-- Add more items as needed -->
     </div>
 </body>
