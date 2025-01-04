@@ -30,11 +30,52 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
 
 
 
-## Moments
+<!-- ## Life Moments
 <div class="Life Moments">
     <img src="assets/img/moments/birthday1.JPG" alt="Description of image 1" />
     <!-- Add more images as needed -->
-</div>
+</div> -->
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
+    <style>
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+            grid-gap: 10px;
+            padding: 10px;
+        }
+
+        .gallery img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Gallery section for images -->
+    <div class="gallery">
+        <img src="assets/img/moments/birthday1.JPG" alt="Description of image 1">
+        <img src="assets/img/moments/birthday2.JPG" alt="Description of image 2">
+        <img src="assets/img/moments/birthday1.JPG" alt="Description of image 3">
+        <!-- More images can be added here -->
+    </div>
+
+    <!-- Moments section below the gallery -->
+    <h2>Moments</h2>
+    <div class="moments">
+        <p>Description or content related to the Moments section goes here.</p>
+        <!-- Additional content for Moments can be included here -->
+    </div>
+</body>
+</html>
+
 
 
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=X7CWIQc88bqFw7S812mBfiDBIeSAgT0l57AZ20awv6A&cl=ffffff&w=a"></script>
