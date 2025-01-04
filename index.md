@@ -105,7 +105,7 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
         <!-- Each item in the gallery includes an image and a description -->
         <div class="item">
             <img src="assets/img/moments/lone_rock.jpg" alt="Utah">
-            <div class="description">Utah</div>
+            <div class="description">Lone Rock</div>
         </div>
         <div class="item">
             <img src="assets/img/moments/Utah.jpg" alt="Utah">
