@@ -71,19 +71,19 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
         <!-- Each item in the gallery includes an image and a description -->
         <div class="item">
             <img src="assets/img/moments/birthday1.JPG" alt="25th Birthday">
-            <div class="description">Birthday celebration</div>
+            <div class="description">25th Birthday</div>
         </div>
         <div class="item">
             <img src="assets/img/moments/birthday2.JPG" alt="25th Birthday">
-            <div class="description">Another Birthday Moment</div>
+            <div class="description">25th Birthday</div>
         </div>
         <div class="item">
             <img src="assets/img/moments/LaJolla_shore1.jpg" alt="La Jolla Shore">
-            <div class="description">Birthday celebration</div>
+            <div class="description">La Jolla Shore</div>
         </div>
         <div class="item">
             <img src="assets/img/moments/LaJolla_shore3.jpg" alt="La Jolla Shore">
-            <div class="description">Another Birthday Moment</div>
+            <div class="description">La Jolla Shore</div>
         </div>
 
 
