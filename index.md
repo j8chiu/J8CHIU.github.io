@@ -82,7 +82,7 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
             <div class="description">Another Birthday Moment</div>
         </div>
         <div class="item">
-            <img src="assets/img/moments/birthday3.JPG" alt="Fun at the party">
+            <img src="assets/img/moments/birthday3.jpg" alt="Fun at the party">
             <div class="description">Fun at the party</div>
         </div>
         <!-- Add more items as needed -->
