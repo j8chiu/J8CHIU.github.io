@@ -46,35 +46,52 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
     <style>
         .gallery {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-            grid-gap: 10px;
-            padding: 10px;
+            grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Adapts number of columns based on screen size */
+            grid-gap: 10px; /* Spacing between items */
+            padding: 10px; /* Padding around the gallery */
+        }
+
+        .gallery .item {
+            display: flex;
+            flex-direction: column; /* Stack image and text vertically */
+            align-items: center; /* Center-align items */
         }
 
         .gallery img {
-            width: 100%;
-            height: auto;
-            border-radius: 8px;
+            width: 100%; /* Images take full width of their container */
+            height: auto; /* Maintain aspect ratio */
+            border-radius: 8px; /* Rounded corners (optional) */
+        }
+
+        .description {
+            text-align: center; /* Center-align text */
+            padding-top: 5px; /* Space between image and text */
+            color: #666; /* Light grey text color, adjust as needed */
+            font-size: 0.8em; /* Smaller font size for descriptions */
         }
     </style>
 </head>
 <body>
-    <!-- Gallery section for images -->
-    <div class="gallery">
-        <img src="assets/img/moments/birthday1.JPG" alt="Description of image 1">
-        <img src="assets/img/moments/birthday2.JPG" alt="Description of image 2">
-        <img src="assets/img/moments/birthday1.JPG" alt="Description of image 3">
-        <!-- More images can be added here -->
-    </div>
-
-    <!-- Moments section below the gallery -->
     <h2>Moments</h2>
-    <div class="moments">
-        <p>Description or content related to the Moments section goes here.</p>
-        <!-- Additional content for Moments can be included here -->
+    <div class="gallery">
+        <!-- Each item in the gallery includes an image and a description -->
+        <div class="item">
+            <img src="assets/img/moments/birthday1.JPG" alt="Birthday celebration">
+            <div class="description">Birthday celebration</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/birthday2.JPG" alt="Another Birthday Moment">
+            <div class="description">Another Birthday Moment</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/birthday3.JPG" alt="Fun at the party">
+            <div class="description">Fun at the party</div>
+        </div>
+        <!-- Add more items as needed -->
     </div>
 </body>
 </html>
+
 
 
 
