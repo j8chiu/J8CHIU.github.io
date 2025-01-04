@@ -104,6 +104,38 @@ I am actively looking for PhD's positions for 25 Fall. If you want to know more 
     <div class="gallery">
         <!-- Each item in the gallery includes an image and a description -->
         <div class="item">
+            <img src="assets/img/moments/lone_rock.jpg" alt="Utah">
+            <div class="description">Utah</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/Utah.jpg" alt="Utah">
+            <div class="description">Utah</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/grand_cayon.jpg" alt="Grand Cayon">
+            <div class="description">Grand Cayon</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/horseshoe2.jpg" alt="Horseshoe">
+            <div class="description">Horseshoe Bend</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/oceanside2.jpg" alt="oceanside">
+            <div class="description">Oceanside</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/oceanside3.jpg" alt="oceanside">
+            <div class="description">Oceanside</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/oceanside4.jpg" alt="oceanside">
+            <div class="description">Oceanside</div>
+        </div>
+        <div class="item">
+            <img src="assets/img/moments/oceanside1.jpg" alt="oceanside">
+            <div class="description">Oceanside</div>
+        </div>
+        <div class="item">
             <img src="assets/img/moments/birthday1.JPG" alt="25th Birthday">
             <div class="description">25th Birthday</div>
         </div>
